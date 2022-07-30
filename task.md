@@ -21,3 +21,6 @@ void Zadacha1(string currentText)
     }
 }
 
+**Block diagram**
+
+![Block diagram for the task](block.jpg)
